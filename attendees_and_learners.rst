@@ -363,4 +363,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
-* Carlos Estrada
+* Carlos Estrada -<carlos.deg02@hotmail.com>- https://github.com/Loptt
